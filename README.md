@@ -28,6 +28,8 @@ A deep learning-based project to classify MRI brain scans as **Tumor** or **No T
 2. Upload MRI images to `data/`
 3. Run the notebook in `notebooks/` folder
 4. Model will classify if a brain tumor is present
+📦 [Download Full Trained Model (brain_tumor_cnn_model.h5)](https://drive.google.com/drive/folders/1_hxLKxsnn53XZfJUJfvyOsoUCe4jBnk0?usp=drive_link)
+
 
 ## 📊 Sample Output
 
